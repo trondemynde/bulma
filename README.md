@@ -1,4 +1,4 @@
-# bulma-message-demo
+# bulma-message
 
 ## Project setup
 ```
